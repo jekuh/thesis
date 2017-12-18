@@ -1,0 +1,25 @@
+% Encoding: windows-1252
+
+@Book{Witten2016,
+  title         = {Data Mining: Practical machine learning tools and techniques},
+  publisher     = {Morgan Kaufmann},
+  year          = {2016},
+  author        = {Witten, Ian H and Frank, Eibe and Hall, Mark A and Pal, Christopher J},
+  __markedentry = {[jekuh:]},
+}
+
+@Article{Hall2011,
+  author        = {Hall, Mark and Witten, Ian and Frank, Eibe},
+  title         = {Data mining: Practical machine learning tools and techniques},
+  journal       = {Kaufmann, Burlington},
+  year          = {2011},
+  __markedentry = {[jekuh:6]},
+}
+
+@Article{Ramdass2009,
+  author = {Dennis Ramdass and Shreyes Seshasai},
+  title  = {Document Classification for Newspaper Articles},
+  year   = {2009},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

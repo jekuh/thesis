@@ -1,0 +1,98 @@
+% Encoding: windows-1252
+
+@BOOK{bentley:1999,
+  title = {{P}rogramming {P}earls},
+  publisher = {Addison--Wesley},
+  year = {1999},
+  author = {Jon Bentley}
+}
+
+@BOOK{bringhurst:2002,
+  title = {{T}he {E}lements of {T}ypographic {S}tyle},
+  publisher = {Hartley \& Marks Publishers},
+  year = {2008},
+  author = {Robert Bringhurst}
+}
+
+@BOOK{cormen:2001,
+  title = {{I}ntroduction to {A}lgorithms},
+  publisher = {The MIT Press},
+  year = {2001},
+  author = {Cormen, Thomas H. and Leiserson, Charles E. and Rivest, Ronald L.
+	and Clifford Stein}
+}
+
+@BOOK{dueck:trio,
+  title = {{D}uecks {T}rilogie: {O}mnisophie -- {S}upramanie -- {T}opothesie},
+  publisher = {Springer},
+  year = {2005},
+  author = {Gunter Dueck},
+  note = {\url{http://www.omnisophie.com}}
+}
+
+@ARTICLE{knuth:1976,
+  author = {Knuth, Donald E.},
+  title = {{B}ig {O}micron and {B}ig {O}mega and {B}ig {T}heta},
+  journal = {SIGACT News},
+  year = {1976},
+  volume = {8},
+  pages = {18--24},
+  number = {2},
+  publisher = {ACM Press}
+}
+
+@ARTICLE{knuth:1974,
+  author = {Knuth, Donald E.},
+  title = {{C}omputer {P}rogramming as an {A}rt},
+  journal = {Communications of the ACM},
+  year = {1974},
+  volume = {17},
+  pages = {667--673},
+  number = {12},
+  publisher = {ACM Press}
+}
+
+@BOOK{sommerville:1992,
+  title = {{S}oftware {E}ngineering},
+  publisher = {Addison-Wesley},
+  year = {1992},
+  author = {Ian Sommerville},
+  address = {Boston, MA, USA}
+}
+
+@Book{Witten2016,
+  title         = {Data Mining: Practical machine learning tools and techniques},
+  publisher     = {Morgan Kaufmann},
+  year          = {2016},
+  author        = {Witten, Ian H and Frank, Eibe and Hall, Mark A and Pal, Christopher J},
+  __markedentry = {[jekuh:]},
+}
+
+@Article{Hall2009,
+  author        = {Hall, Mark and Frank, Eibe and Holmes, Geoffrey and Pfahringer, Bernhard and Reutemann, Peter and Witten, Ian H},
+  title         = {The WEKA data mining software: an update},
+  journal       = {ACM SIGKDD explorations newsletter},
+  year          = {2009},
+  volume        = {11},
+  number        = {1},
+  pages         = {10--18},
+  __markedentry = {[jekuh:]},
+  publisher     = {ACM},
+}
+
+@Article{Witten1999,
+  author        = {Witten, Ian H and Frank, Eibe and Trigg, Leonard E and Hall, Mark A and Holmes, Geoffrey and Cunningham, Sally Jo},
+  title         = {Weka: Practical machine learning tools and techniques with Java implementations},
+  year          = {1999},
+  __markedentry = {[jekuh:]},
+}
+
+@Article{Hall2011,
+  author        = {Hall, Mark and Witten, Ian and Frank, Eibe},
+  title         = {Data mining: Practical machine learning tools and techniques},
+  journal       = {Kaufmann, Burlington},
+  year          = {2011},
+  __markedentry = {[jekuh:6]},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

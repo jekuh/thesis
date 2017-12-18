@@ -1,0 +1,16 @@
+%*******************************************************
+% Abkürzungsverzeichnis
+%*******************************************************
+\chapter*{Abbreviations}
+\addcontentsline{toc}{chapter}{Abbreviations}	
+	%Hier alle benötigten Abkürzungen einfügen
+	\begin{acronym}[WLAN] % LONGEST ACRONYM HERE FOR CORRECT SPACING
+
+	    \acro{ARFF}{Attribute Relation File Format}
+	    \acro{TREC}{Text Retrieval Conferences}
+	    \acro{WEKA}{Waikato Environment for Knowledge Analysis}
+	    \acro{WWW}{World Wide Web}
+	    \acro{XRFF}{eXtensible attribute-Relation File Format}
+	\end{acronym}
+	
+	

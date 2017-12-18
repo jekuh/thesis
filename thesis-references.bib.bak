@@ -1,0 +1,42 @@
+% Encoding: UTF-8
+
+@Book{Witten2016,
+  title         = {Data Mining: Practical machine learning tools and techniques},
+  publisher     = {Morgan Kaufmann},
+  year          = {2016},
+  author        = {Witten, Ian H and Frank, Eibe and Hall, Mark A and Pal, Christopher J},
+  __markedentry = {[jekuh:]},
+}
+
+@Article{Hall2009,
+  author        = {Hall, Mark and Frank, Eibe and Holmes, Geoffrey and Pfahringer, Bernhard and Reutemann, Peter and Witten, Ian H},
+  title         = {The WEKA data mining software: an update},
+  journal       = {ACM SIGKDD explorations newsletter},
+  year          = {2009},
+  volume        = {11},
+  number        = {1},
+  pages         = {10--18},
+  __markedentry = {[jekuh:]},
+  publisher     = {ACM},
+}
+
+@Article{Hall2011,
+  author        = {Hall, Mark and Witten, Ian and Frank, Eibe},
+  title         = {Data mining: Practical machine learning tools and techniques},
+  journal       = {Kaufmann, Burlington},
+  year          = {2011},
+  __markedentry = {[jekuh:]},
+}
+
+@Article{Sandhaus2008,
+  author        = {Sandhaus, Evan},
+  title         = {The new york times annotated corpus},
+  journal       = {Linguistic Data Consortium, Philadelphia},
+  year          = {2008},
+  volume        = {6},
+  number        = {12},
+  pages         = {e26752},
+  __markedentry = {[jekuh:6]},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
